@@ -1,0 +1,157 @@
+/* Footer Styles */
+
+@media (forced-colors: active) {
+  .footer {
+    background-color: ButtonFace;
+    color: ButtonText;
+  }
+
+  .footer-links a {
+    color: LinkText;
+  }
+}
+
+.footer {
+  background: linear-gradient(90deg, #000000, #1e004a);
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-links a:hover {
+  color: #cccccc;
+}
+
+.footer-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.footer-links li {
+  margin-left: 20px;
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s;
+}
+
+.footer-links a:hover {
+  color: #06b6d4;
+}
+
+/* Define the active link style */
+.active-link,
+.active-footer-link {
+  background-color: teal;
+  color: white !important;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+/* Media Queries */
+@media (min-width: 769px) and (max-width: 1683px) {
+  .footer {
+    flex-direction: row; /* Ensure footer items are in a row */
+    flex-wrap: wrap; /* Allow wrapping to the next line */
+    justify-content: center; /* Center items horizontally */
+  }
+
+  .footer-links {
+    flex-direction: row;
+    justify-content: center; /* Center links horizontally */
+    flex-wrap: wrap; /* Ensure links wrap to the next line if necessary */
+    white-space: nowrap; /* Prevent wrapping of individual links */
+  }
+
+  .footer-links li {
+    margin: 0 15px; /* Adjust margin between links */
+  }
+}
+
+@media (min-width: 635px) and (max-width: 1683px) {
+  .footer {
+    flex-direction: row; /* Ensure footer items are in a row */
+    flex-wrap: wrap; /* Allow wrapping to the next line */
+    justify-content: space-between; /* Adjust spacing */
+  }
+
+  .footer-links {
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap; /* Ensure links wrap to the next line if necessary */
+    white-space: nowrap; /* Prevent wrapping of individual links */
+  }
+
+  .footer-links li {
+    margin-left: 35px; /* Adjust margin between links */
+  }
+
+  .footer-links a {
+    font-size: 0.9rem; /* Adjust font size for better fit */
+  }
+}
+
+@media (min-width: 645px) and (max-width: 1038px) {
+  .footer {
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    padding: 10px; /* Optional: Add padding for better spacing */
+  }
+
+  .footer-links {
+    flex-direction: column; /* Stack links vertically */
+    align-items: center; /* Center links horizontally */
+    margin-bottom: 10px; /* Add space between footer sections */
+  }
+
+  .footer-links li {
+    margin: 5px 0; /* Adjust margin between links */
+    margin-left: 30px; /* Adjust margin between links */
+  }
+
+  .footer-links a {
+    font-size: 1rem; /* Adjust font size for better fit */
+  }
+
+  .footer-social-icon {
+    display: block; /* Ensure social icons stack vertically */
+    margin: 10px 0; /* Add space above and below social icons */
+  }
+}
+
+@media (max-width: 2009px) {
+  .footer-links li {
+    margin: 5px 0; /* Adjust margin between links */
+    margin-left: 45px; /* Adjust margin between links */
+  }
+}
+
+@media (max-width: 608px) {
+  .footer {
+    flex-direction: column; /* Stack footer items vertically */
+    align-items: center; /* Center items horizontally */
+  }
+
+  .footer-links {
+    flex-direction: column; /* Stack links vertically */
+    align-items: center; /* Center links horizontally */
+  }
+
+  .footer-links li {
+    margin: 10px 0; /* Adjust margin between links for proper spacing */
+  }
+}

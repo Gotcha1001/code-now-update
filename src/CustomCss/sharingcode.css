@@ -1,0 +1,5 @@
+/* Add this to your CSS file */
+.pre-wrap {
+  white-space: pre-wrap;
+  word-wrap: break-word; /* Ensures long words break correctly */
+}

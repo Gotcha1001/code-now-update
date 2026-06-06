@@ -1,0 +1,27 @@
+.custom-checkbox {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border-radius: 5px;
+  position: relative;
+  cursor: pointer;
+  border: 2px solid #ccc; /* Add a border for visibility */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-checkbox:checked::before {
+  content: "✔";
+  position: absolute;
+  font-size: 16px; /* Slightly smaller font size for better fit */
+  color: green;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1.1); /* Center and slightly scale the checkmark */
+}
+
+.custom-checkbox:focus {
+  outline: none;
+  box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.12);
+}
