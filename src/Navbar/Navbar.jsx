@@ -147,7 +147,13 @@ const Navbar = () => {
                     className={`flex-col md:flex md:flex-row md:items-center md:space-x-4 ${isMenuOpen ? 'block' : 'hidden'} md:block`}
                 >
                     <ul className="navbar-links flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-4">
-
+                        <li className="md:mr-4 my-2 md:my-0 p-2 rounded-lg">
+                            <NavLink to="original-projects" onClick={handleLinkClick} className={({ isActive }) =>
+                                isActive ? "active-link" : ""
+                            }>
+                                Original Projects
+                            </NavLink>
+                        </li>
                         {/* Replace the Portfolio link */}
                         <li className="md:mr-4 my-2 md:my-0 p-2 rounded-lg">
                             <NavLink to="tutorials" onClick={handleLinkClick} className={({ isActive }) =>
@@ -158,13 +164,7 @@ const Navbar = () => {
                         </li>
 
                         {/* Add the new Original Projects link */}
-                        <li className="md:mr-4 my-2 md:my-0 p-2 rounded-lg">
-                            <NavLink to="original-projects" onClick={handleLinkClick} className={({ isActive }) =>
-                                isActive ? "active-link" : ""
-                            }>
-                                Original Projects
-                            </NavLink>
-                        </li>
+
                         <li className="md:mr-4 my-2 md:my-0  p-2  rounded-lg">
                             <NavLink to="about-us" onClick={handleLinkClick} className={({ isActive }) =>
                                 isActive ? "active-link" : ""
