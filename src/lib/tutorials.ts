@@ -4,7 +4,7 @@ const tutorials = [
     title: "Project 1: Blog Deluxe",
     description: "Blog Deluxe",
     shortDescription: "Blog Deluxe",
-    imageUrl: "/images/discord.jpg",
+    imageUrl: "/images/blog.jpg",
     alt: "WesleyTech Shop",
   },
   {
@@ -154,23 +154,23 @@ const tutorials = [
     imageUrl: "/images/carreers.jpg",
     alt: "WesleyTech Shop",
   },
-  {
-    href: "https://hulu-clone-blue-one.vercel.app/",
-    title: "Project 1: Hulu Clone",
-    description: "Hulu Clone",
-    shortDescription: "Hulu Clone",
-    imageUrl: "/images/hulu.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://ai-recruiter-teal.vercel.app/",
-    title: "Project 5: AI Recruiter ",
-    description: "Automated AI Interviews",
-    shortDescription:
-      "AI Recruiter: Schedule a Job description and the requirements and get a full interview based on your prompt and duration with decision making on whether to hire the candidate as well as a report of the full conversatino and answers and ratings",
-    imageUrl: "/images/ai-recruitors.jpg",
-    alt: "WesleyTech Shop",
-  },
+  // {
+  //   href: "https://hulu-clone-blue-one.vercel.app/",
+  //   title: "Project 1: Hulu Clone",
+  //   description: "Hulu Clone",
+  //   shortDescription: "Hulu Clone",
+  //   imageUrl: "/images/hulu.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://ai-recruiter-teal.vercel.app/",
+  //   title: "Project 5: AI Recruiter ",
+  //   description: "Automated AI Interviews",
+  //   shortDescription:
+  //     "AI Recruiter: Schedule a Job description and the requirements and get a full interview based on your prompt and duration with decision making on whether to hire the candidate as well as a report of the full conversatino and answers and ratings",
+  //   imageUrl: "/images/ai-recruitors.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
   {
     href: "https://mock-interview-zeta-amber.vercel.app/",
     title: "Project 8: Mock Interview Practice ",
@@ -236,95 +236,95 @@ const tutorials = [
       "https://github.com/Gotcha1001/My-Images-for-sites-Wes/blob/main/yyyy.jpg?raw=true",
     alt: "WesleyTech Shop",
   },
-  {
-    href: "https://interior-design-ruby-two.vercel.app/",
-    title: "Project 15: Interior Decorator AI",
-    description: "Transform any room in your house into your chosen choice",
-    shortDescription:
-      "Interior Decorator AI: Using Next JS 14 and Clerk Authentication, upload any image of your house and transform it into the style of your choice within seconds and share it with your friends and family, or use it as a plan for the future",
-    imageUrl: "/images/interior-design.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://kids-stories-ai.vercel.app/",
-    title: "Project 16: AI Kids Stories Generater",
-    description: "Generate any type of form with AI",
-    shortDescription:
-      "AI Kids Story: Using Next JS 14 and Clerk Authentication, create various stories for various age groups, and story types, and animated image options, read your stories and displayed in a beautiful turn the page book, and share it directly with friends and social media,  using Google Gemini AI story generation, and Replicate AI Image generation, so much fun for the family",
-    imageUrl: "/images/kids-story.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://ai-form-ten.vercel.app/",
-    title: "Project 17: AI Form Generater",
-    description: "Generate any type of form with AI",
-    shortDescription:
-      "AI Form Generator: Using Next JS 14 and Clerk Authentication, and SHADCN for components, create any form for cooking, self checks, classes, jobs, anything with Google AI and alter your forms as you will, with rich themes or backgrounds, edit fields, and share your link with anyone to fill out and download the filled form in Excel",
-    imageUrl: "/images/ai-form.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://reflect-private-journal.vercel.app/",
-    title: "Project 18: Digital Journal App",
-    description: "Digital Journal App",
-    shortDescription:
-      "Digital Journal App: Using Next JS 15 and Clerk Authentication, and SHADCN for components, Filtering, Rich Text Editor, with Collections for your Categories, then you can add your entries, add Video Urls, Images, Utilizing a API to generate images based on your mood you select, with amazing slide in animations using Framer Motion",
-    imageUrl: "images/digital-journal.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://workflow-jira-clone.vercel.app/",
-    title: "Project 19: Jira Clone WorkFlow App",
-    description: "Jira Clone WorkFlow App",
-    shortDescription:
-      "Jira Clone WorkFlow: Using Next JS 15 and Clerk Authentication, and SHADCN for components, Filtering, Creating Projects and Sprints and setting start and end dates of the task, and priority settings, with admin rights to only alter them , with amazing animations and functionality",
-    imageUrl: "/images/jira-clone.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://social-media-art.vercel.app/",
-    title: "Project 21: Social Cloud App",
-    description: "Social Cloud App",
-    shortDescription:
-      "Social Cloud App: Using Next JS 15 and Clerk Authentication, and SHADCN for components, A mini version of Facebook, with the ability to create posts, other users can comment like, Search for Users, Add Stories, cool animations and Rad UI annimations, Using Server Actions and the latest coding technology",
-    imageUrl: "/images/social-media.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://finance-track-wine.vercel.app/",
-    title: "Project 22: Finance Tracker",
-    description: "Finance Tracker",
-    shortDescription:
-      "Finance Tracker: Using Next JS 15 and Clerk Authentication, and SHADCN for components, this one is a masterpiece of mathematical equations and has such a functionality that everybody can use in their daily lives, to save money and keep track of all their expenses and also print out their expenses at any time for reference",
-    imageUrl: "/images/budget.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://sonny-ecommerce.vercel.app/",
-    title: "Project 23: Ecommerce Site SHOPNOW",
-    description: "Ecommerce Site SHOPNOW",
-    shortDescription:
-      "Ecommerce Site SHOPNOW: Using Next JS 15 and Clerk Authentication, and STRIPE, coupons, and amazing search functionality and for the owner of the website , an amazing new technology called STUDIO , to add products, alter the whole website so easily and live as well...... AMAZING SANITY for the backend that makes it fun and so easy",
-    imageUrl: "/images/shop-now.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://instagram-fun-mauve.vercel.app/",
-    title: "Project 24: Instagram Clone with a twist",
-    description: "Instagram Clone with a twist",
-    shortDescription: "Instagram fun...",
-    imageUrl: "/images/instagram.jpg",
-    alt: "WesleyTech Shop",
-  },
-  {
-    href: "https://multistore-dawid-map.vercel.app/",
-    title: "Project 24: Multistore Ad App",
-    description: "Multistore Ad App",
-    shortDescription:
-      "Multistore Ad App: Login and Create any ad you wish wish a location of your product, where the users can search products under their area through Google Maps, Post ads, edit, delete with beautiful filtering in price, location and categories",
-    imageUrl: "/images/multi-store.jpg",
-    alt: "WesleyTech Shop",
-  },
+  // {
+  //   href: "https://interior-design-ruby-two.vercel.app/",
+  //   title: "Project 15: Interior Decorator AI",
+  //   description: "Transform any room in your house into your chosen choice",
+  //   shortDescription:
+  //     "Interior Decorator AI: Using Next JS 14 and Clerk Authentication, upload any image of your house and transform it into the style of your choice within seconds and share it with your friends and family, or use it as a plan for the future",
+  //   imageUrl: "/images/interior-design.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://kids-stories-ai.vercel.app/",
+  //   title: "Project 16: AI Kids Stories Generater",
+  //   description: "Generate any type of form with AI",
+  //   shortDescription:
+  //     "AI Kids Story: Using Next JS 14 and Clerk Authentication, create various stories for various age groups, and story types, and animated image options, read your stories and displayed in a beautiful turn the page book, and share it directly with friends and social media,  using Google Gemini AI story generation, and Replicate AI Image generation, so much fun for the family",
+  //   imageUrl: "/images/kids-story.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://ai-form-ten.vercel.app/",
+  //   title: "Project 17: AI Form Generater",
+  //   description: "Generate any type of form with AI",
+  //   shortDescription:
+  //     "AI Form Generator: Using Next JS 14 and Clerk Authentication, and SHADCN for components, create any form for cooking, self checks, classes, jobs, anything with Google AI and alter your forms as you will, with rich themes or backgrounds, edit fields, and share your link with anyone to fill out and download the filled form in Excel",
+  //   imageUrl: "/images/ai-form.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://reflect-private-journal.vercel.app/",
+  //   title: "Project 18: Digital Journal App",
+  //   description: "Digital Journal App",
+  //   shortDescription:
+  //     "Digital Journal App: Using Next JS 15 and Clerk Authentication, and SHADCN for components, Filtering, Rich Text Editor, with Collections for your Categories, then you can add your entries, add Video Urls, Images, Utilizing a API to generate images based on your mood you select, with amazing slide in animations using Framer Motion",
+  //   imageUrl: "images/digital-journal.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://workflow-jira-clone.vercel.app/",
+  //   title: "Project 19: Jira Clone WorkFlow App",
+  //   description: "Jira Clone WorkFlow App",
+  //   shortDescription:
+  //     "Jira Clone WorkFlow: Using Next JS 15 and Clerk Authentication, and SHADCN for components, Filtering, Creating Projects and Sprints and setting start and end dates of the task, and priority settings, with admin rights to only alter them , with amazing animations and functionality",
+  //   imageUrl: "/images/jira-clone.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://social-media-art.vercel.app/",
+  //   title: "Project 21: Social Cloud App",
+  //   description: "Social Cloud App",
+  //   shortDescription:
+  //     "Social Cloud App: Using Next JS 15 and Clerk Authentication, and SHADCN for components, A mini version of Facebook, with the ability to create posts, other users can comment like, Search for Users, Add Stories, cool animations and Rad UI annimations, Using Server Actions and the latest coding technology",
+  //   imageUrl: "/images/social-media.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://finance-track-wine.vercel.app/",
+  //   title: "Project 22: Finance Tracker",
+  //   description: "Finance Tracker",
+  //   shortDescription:
+  //     "Finance Tracker: Using Next JS 15 and Clerk Authentication, and SHADCN for components, this one is a masterpiece of mathematical equations and has such a functionality that everybody can use in their daily lives, to save money and keep track of all their expenses and also print out their expenses at any time for reference",
+  //   imageUrl: "/images/budget.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://sonny-ecommerce.vercel.app/",
+  //   title: "Project 23: Ecommerce Site SHOPNOW",
+  //   description: "Ecommerce Site SHOPNOW",
+  //   shortDescription:
+  //     "Ecommerce Site SHOPNOW: Using Next JS 15 and Clerk Authentication, and STRIPE, coupons, and amazing search functionality and for the owner of the website , an amazing new technology called STUDIO , to add products, alter the whole website so easily and live as well...... AMAZING SANITY for the backend that makes it fun and so easy",
+  //   imageUrl: "/images/shop-now.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://instagram-fun-mauve.vercel.app/",
+  //   title: "Project 24: Instagram Clone with a twist",
+  //   description: "Instagram Clone with a twist",
+  //   shortDescription: "Instagram fun...",
+  //   imageUrl: "/images/instagram.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
+  // {
+  //   href: "https://multistore-dawid-map.vercel.app/",
+  //   title: "Project 24: Multistore Ad App",
+  //   description: "Multistore Ad App",
+  //   shortDescription:
+  //     "Multistore Ad App: Login and Create any ad you wish wish a location of your product, where the users can search products under their area through Google Maps, Post ads, edit, delete with beautiful filtering in price, location and categories",
+  //   imageUrl: "/images/multi-store.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
   {
     href: "https://video-subtitles.onrender.com/",
     title: "Project 25: Video Captions App",
@@ -334,22 +334,22 @@ const tutorials = [
     imageUrl: "/images/captions.jpg",
     alt: "WesleyTech Shop",
   },
-  {
-    href: "https://calandar-seven.vercel.app/",
-    title: "Project 26: Calandar Clone App",
-    description: "Digital Google Appointsments App",
-    shortDescription:
-      "Calendar Clone App: Using Next JS 14 and Clerk Authentication, and SHADCN for components, Make events and book appointments that automatically get sent to your google calendar and emails get sent to the user trying to book a meeting with you in your certain slots",
-    imageUrl: "/images/calendar.jpg",
-    alt: "WesleyTech Shop",
-  },
+  // {
+  //   href: "https://calandar-seven.vercel.app/",
+  //   title: "Project 26: Calandar Clone App",
+  //   description: "Digital Google Appointsments App",
+  //   shortDescription:
+  //     "Calendar Clone App: Using Next JS 14 and Clerk Authentication, and SHADCN for components, Make events and book appointments that automatically get sent to your google calendar and emails get sent to the user trying to book a meeting with you in your certain slots",
+  //   imageUrl: "/images/calendar.jpg",
+  //   alt: "WesleyTech Shop",
+  // },
   {
     href: "https://tastyfood-ordering-app-frontend.onrender.com/",
     title: "Project 27: Multi Restaurant App",
     description: "Multi Restaurant App",
     shortDescription:
       "Mutil Restaurant App: Authentication with Auth0, Create a Restaurant, add Products, and Delivery Fees, and Stripe Payment",
-    imageUrl: "/images/tasy-food.jpg",
+    imageUrl: "/images/tasty-food.jpg",
     alt: "WesleyTech Shop",
   },
   {
