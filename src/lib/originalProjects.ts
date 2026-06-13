@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://soul-contract-two.vercel.app/",
+    title: "Project 20: Soul Contract",
+    description:
+      "Answer 5 questions to get a AI model give you a poetic summary of your reason for coming here",
+    shortDescription:
+      "Answer 5 questions to get a AI model give you a poetic summary of your reason for coming here",
+    imageUrl: "/images/soul.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://wizard-reading.vercel.app/",
     title: "Project 20: Wizard Readings",
     description: "Wizard Insights and readings",
