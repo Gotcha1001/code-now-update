@@ -1,5 +1,14 @@
 const originalProjects = [
   {
+    href: "https://past-life-oracle.vercel.app/",
+    title: "Project 20: Past Life Oracle",
+    description:
+      "Answer 10 Questions and get a prediction of your past life summary",
+    shortDescription: "ummary",
+    imageUrl: "/images/past.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://soul-contract-two.vercel.app/",
     title: "Project 20: Soul Contract",
     description:
