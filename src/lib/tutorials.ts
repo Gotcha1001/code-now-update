@@ -1,5 +1,14 @@
 const tutorials = [
   {
+    href: "https://medify-vapi.vercel.app/",
+    title: "Project 1: Medify",
+    description: "Consult doctors with voice agents AI advice and diagnosis",
+    shortDescription:
+      "Consult doctors with voice agents AI advice and diagnosis",
+    imageUrl: "/images/medic.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://blog-wes.vercel.app/",
     title: "Project 1: Blog Deluxe",
     description: "Blog Deluxe",
