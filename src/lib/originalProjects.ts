@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://life-coach-deluxe.vercel.app/",
+    title: "Project 20: Life Coach Deluxe",
+    description:
+      "Answer a few questions and get your life back on track again and achieve all your goals with basic logic and checking in",
+    shortDescription:
+      "Answer a few questions and get your life back on track again and achieve all your goals with basic logic and checking in",
+    imageUrl: "/images/coach.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://past-life-oracle.vercel.app/",
     title: "Project 20: Past Life Oracle",
     description:
