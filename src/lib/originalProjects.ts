@@ -6,7 +6,7 @@ const originalProjects = [
       "Answer a few questions and get your life back on track again and achieve all your goals with basic logic and checking in",
     shortDescription:
       "Answer a few questions and get your life back on track again and achieve all your goals with basic logic and checking in",
-    imageUrl: "/images/coach.jpg",
+    imageUrl: "/images/life.jpg",
     alt: "WesleyTech Shop",
   },
   {
@@ -14,7 +14,8 @@ const originalProjects = [
     title: "Project 20: Past Life Oracle",
     description:
       "Answer 10 Questions and get a prediction of your past life summary",
-    shortDescription: "ummary",
+    shortDescription:
+      "Answer 10 Questions and get a prediction of your past life summary",
     imageUrl: "/images/past.jpg",
     alt: "WesleyTech Shop",
   },
