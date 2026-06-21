@@ -1,5 +1,13 @@
 const originalProjects = [
   {
+    href: "https://prophecy-puzzle-lets-play.vercel.app/",
+    title: "Project 20: Prophecy Puzzle",
+    description: "Prophecy Puzzle",
+    shortDescription: "Prophecy Puzzle",
+    imageUrl: "/images/prophecy.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://life-coach-deluxe.vercel.app/",
     title: "Project 20: Life Coach Deluxe",
     description:
