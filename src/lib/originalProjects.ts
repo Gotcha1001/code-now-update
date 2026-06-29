@@ -1,5 +1,13 @@
 const originalProjects = [
   {
+    href: "https://gremelins-geax.vercel.app/",
+    title: "Project 20: Gremlins Inc",
+    description: "Gremlins Inc",
+    shortDescription: "Gremlins Inc: Cause Caos without getting fired",
+    imageUrl: "/images/gremlin.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://prophecy-puzzle-lets-play.vercel.app/",
     title: "Project 20: Prophecy Puzzle",
     description: "Prophecy Puzzle",
