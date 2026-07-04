@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://roast-inc.vercel.app/",
+    title: "Project 20: Roast Inc",
+    description:
+      "A multiplayer card game where you and your friends roast each other into oblivion — throw burns, block with shields, and pull receipts for bonus damage.",
+    shortDescription:
+      "Roast Inc: Talk trash, deal damage, survive the group chat",
+    imageUrl: "/images/roast.jpg",
+    alt: "Roast Inc game preview",
+  },
+  {
     href: "https://gremelins-geax.vercel.app/",
     title: "Project 20: Gremlins Inc",
     description: "Gremlins Inc",
