@@ -1,6 +1,6 @@
 const originalProjects = [
   {
-    href: "https://unpoloy.vercel.app/",
+    href: "https://unopoly.vercel.app/",
     title: "Project 20: Unopoly",
     description:
       "Uno Online combined with Monopoly, lobby room and bot playing, the first with the most money to go out wins.",
