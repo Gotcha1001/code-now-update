@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://cv-ai-generator-six.vercel.app/",
+    title: "Project 20: AI CV Generator",
+    description:
+      "Create multiple CV's for various jobs with AI commentary on your information and Image and Video displays, a digital annimation CV or a PDF download CV",
+    shortDescription:
+      "Create multiple CV's for various jobs with AI commentary on your information and Image and Video displays, a digital annimation CV or a PDF download CV",
+    imageUrl: "/images/aicv.jpg",
+    alt: "AI CV",
+  },
+  {
     href: "https://unopoly.vercel.app/",
     title: "Project 20: Unopoly",
     description:
