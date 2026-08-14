@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://family-origin.vercel.app/",
+    title: "Project 20: AI CV Generator",
+    description:
+      "Search your family name and find out where your tribe originated with an AI report to share with your loved ones",
+    shortDescription:
+      "Search your family name and find out where your tribe originated with an AI report to share with your loved ones",
+    imageUrl: "/images/family.jpg",
+    alt: "AI CV",
+  },
+  {
     href: "https://cv-ai-generator-template.vercel.app/",
     title: "Project 20: AI CV Generator",
     description:
