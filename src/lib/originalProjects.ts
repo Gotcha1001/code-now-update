@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://price-best-search.vercel.app/",
+    title: "Project 20: Best Price Search",
+    description:
+      "Search for the best prices on any product and get a listing with links to buy your product for the lowest price in the world",
+    shortDescription:
+      "Search for the best prices on any product and get a listing with links to buy your product for the lowest price in the world",
+    imageUrl: "/images/price.jpg",
+    alt: "AI CV",
+  },
+  {
     href: "https://family-origin.vercel.app/",
     title: "Project 20: AI CV Generator",
     description:
