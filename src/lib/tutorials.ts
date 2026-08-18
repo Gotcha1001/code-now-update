@@ -1,5 +1,13 @@
 const tutorials = [
   {
+    href: "https://netlix-smoky.vercel.app/",
+    title: "Project 1: Netflix Clone",
+    description: "Nexflix Clone",
+    shortDescription: "Netflix Clone",
+    imageUrl: "/images/netflix.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://medify-vapi.vercel.app/",
     title: "Project 1: Medify",
     description: "Consult doctors with voice agents AI advice and diagnosis",
