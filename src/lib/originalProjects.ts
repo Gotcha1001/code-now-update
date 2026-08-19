@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://general-search.vercel.app/",
+    title: "Project 20: Find anything",
+    description:
+      "Search for any anything like best Italian restaurants in the area, or concerts, or babysitters etc...",
+    shortDescription:
+      "Search for any anything like best Italian restaurants in the area, or concerts, or babysitters etc...",
+    imageUrl: "/images/find.jpg",
+    alt: "AI CV",
+  },
+  {
     href: "https://job-search-eight-teal.vercel.app/",
     title: "Project 20: Job Search Listing",
     description:
