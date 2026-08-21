@@ -1,5 +1,15 @@
 const originalProjects = [
   {
+    href: "https://business-plan-ai-ten.vercel.app/",
+    title: "Project 20: Find anything",
+    description:
+      "Create a business plan simple or complicated, let AI generate your beautiful business plan with a URL to share to anyone and also download the plan",
+    shortDescription:
+      "Create a business plan simple or complicated, let AI generate your beautiful business plan with a URL to share to anyone and also download the plan",
+    imageUrl: "/images/business.jpg",
+    alt: "AI CV",
+  },
+  {
     href: "https://general-search.vercel.app/",
     title: "Project 20: Find anything",
     description:
