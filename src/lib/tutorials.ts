@@ -1,5 +1,13 @@
 const tutorials = [
   {
+    href: "https://lo-fi-iota.vercel.app/",
+    title: "Project 1: Lo-Fi",
+    description: "Lo-Fi",
+    shortDescription: "Lo-Fi music and video playing app with sound effects",
+    imageUrl: "/images/lofi.jpg",
+    alt: "WesleyTech Shop",
+  },
+  {
     href: "https://netlix-smoky.vercel.app/",
     title: "Project 1: Netflix Clone",
     description: "Nexflix Clone",
