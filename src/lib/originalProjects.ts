@@ -614,8 +614,17 @@ const originalProjects = [
     imageUrl: "/images/cancer.jpg",
     alt: "Cancer Friends",
   },
+  //   {
+  //   href: "https://josh-art-site.vercel.app/",
+  //   title: "Project 36: Art Business",
+  //   description: "Art business for a friend I made.",
+  //   shortDescription:
+  //     "Art Business: Helping small businesses get recognized with a professional platform.",
+  //   imageUrl: "/images/art.jpg",
+  //   alt: "Art Business",
+  // },
   {
-    href: "https://josh-art-site.vercel.app/",
+    href: "https://josh-art-next-js.vercel.app/",
     title: "Project 36: Art Business",
     description: "Art business for a friend I made.",
     shortDescription:
